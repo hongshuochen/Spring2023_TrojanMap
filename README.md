@@ -194,6 +194,8 @@ We created some tests for you to test your program, please run
 $ bazel test tests:trojanmap_test
 ```
 
+> You may also need to add the `--cxxopt='-std=c++17'` flag if you are using Linux.
+
 Please add you test in the [trojanmap_test_student.cc](tests/trojanmap_test_student.cc) and run
 
 ```shell
