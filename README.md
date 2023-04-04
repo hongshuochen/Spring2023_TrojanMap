@@ -37,7 +37,7 @@ The project is submitted in different phases. You are required to submit the fol
 
 ## Due Dates
 
-- Phase 1: Friday, April 7, 23:59 pm
+- Phase 1: Sunday, April 9, 23:59 pm
 - Phase 2: Friday, April 14, 23:59 pm
 - Phase 3: Friday, April 28, 23:59 pm
 - Video Presentation: Friday, April 28, 23:59 pm
